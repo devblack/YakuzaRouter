@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/IPqz3hO.png)
 
 # Requirements
-  * OpenVPN
+  * OpenVPN Client
 
 # Before run
   * Edit your .ovpn file to login automatically
