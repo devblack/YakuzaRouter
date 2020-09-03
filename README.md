@@ -26,6 +26,21 @@
 # Suggestion
   When you use the command dir, always enter the full patch of your dir, example: /home/myuser/Desktop/configs/
 
+# Installation
+
+### Install source from GitHub
+To install the source code:
+    $ git clone https://github.com/devblack/YakuzaRouter.git
+
+### Install source from zip/tarball
+Alternatively, you can fetch a [tarball][] or [zipball][]:
+    $ curl -L https://github.com/devblack/YakuzaRouter/tarball/master | tar xzv
+    (or)
+    $ wget https://github.com/devblack/YakuzaRouter/tarball/master -O - | tar xzv
+
+[tarball]: https://github.com/devblack/YakuzaRouter/tarball/master
+[zipball]: https://github.com/devblack/YakuzaRouter/zipball/master
+
 # Usage
 ```
 sudo ./Yakuza.sh
