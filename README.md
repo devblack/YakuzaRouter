@@ -10,7 +10,7 @@
   * Edit your .ovpn file to login automatically
     ```
     # After "remote ....." line
-    remote us1.freeopenvpn.org 10558 udp
+    remote my-host-server-example 666 udp
     auth-user-pass /EXAMPLE_DIR/pass
     # you can see a pass example in EXAMPLE_DIR
     ```
