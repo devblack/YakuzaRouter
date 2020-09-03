@@ -21,7 +21,7 @@
     up /etc/openvpn/update-systemd-resolved
     down /etc/openvpn/update-systemd-resolved
     dhcp-option DOMAIN-ROUTE .
-    # you can see a pass example in EXAMPLE_DIR
+    # you can see a example in EXAMPLE_DIR
     ```
 
 
