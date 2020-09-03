@@ -30,10 +30,12 @@
 
 ### Install source from GitHub
 To install the source code:
+
     $ git clone https://github.com/devblack/YakuzaRouter.git
 
 ### Install source from zip/tarball
 Alternatively, you can fetch a [tarball][] or [zipball][]:
+
     $ curl -L https://github.com/devblack/YakuzaRouter/tarball/master | tar xzv
     (or)
     $ wget https://github.com/devblack/YakuzaRouter/tarball/master -O - | tar xzv
