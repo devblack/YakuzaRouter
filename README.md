@@ -24,7 +24,7 @@
     # you can see a example in EXAMPLE_DIR
     ```
 # Suggestion
-  ### When you use the command dir, always enter the full patch of your dir, example: /home/myuser/Desktop/configs/
+  When you use the command dir, always enter the full patch of your dir, example: /home/myuser/Desktop/configs/
 
 # Usage
 ```
