@@ -8,14 +8,14 @@
 
 # Before run
   * Edit your .ovpn file to login automatically
-    ```
+    ```bash
     # After "remote ....." line
     remote my-host-server-example 666 udp
     auth-user-pass /EXAMPLE_DIR/pass
     # you can see a pass example in EXAMPLE_DIR
     ```
   * Edit your .ovpn file to prevent dns leak
-    ```
+    ```bash
     #At the end of everything, paste this:
     script-security 2
     up /etc/openvpn/update-systemd-resolved
